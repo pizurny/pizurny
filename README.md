@@ -17,6 +17,9 @@ Building the bridge between traditional VFX production and AI-enhanced workflows
 ### [Comfyui-FeedbackSampler](https://github.com/pizurny/Comfyui-FeedbackSampler)
 Experimental custom sampler for Deforum-style zoom animations through iterative feedback loops.
 
+### [ComfyUI Latent Transform Sampler](https://github.com/pizurny/Comfyui-Latent-Transform-Sampler)
+Advanced latent space transformations during diffusion sampling
+
 ### [Sammie-Roto](https://github.com/pizurny/Sammie-Roto) (Contributor)
 Added image sequence I/O support for VFX production workflows. Enables seamless integration of AI masking into standard compositing pipelines.
 
@@ -32,9 +35,9 @@ DWPose preprocessor integration for character animation and pose estimation.
 Leading AI initiatives for commercial production, delivering AI-enhanced VFX from concept to final delivery.
 
 **Key achievements:**
-- Built scalable ComfyUI workflows integrated with Houdini and Nuke pipelines
+- Built scalable ComfyUI workflows & automated Ai solutions
 - Reduced shot iteration time by 60% through AI-enhanced previsualization
-- Train and deploy custom Stable Diffusion models for client-specific requirements
+- Train and deploy custom Stable Diffusion/Flux models for client-specific requirements
 - Deliver AI-heavy shots for high-profile advertising campaigns
 - Conduct technical workshops training artists across disciplines
 
@@ -45,7 +48,7 @@ Procedural systems, lookdev, and lighting for high-end commercials. 5+ years pro
 
 ## 🛠️ Technical Stack
 
-**AI/ML:** ComfyUI Custom Node Development • Stable Diffusion • Model Training & Fine-tuning • PyTorch • Python  
+**AI/ML:** ComfyUI Custom Node Development • Stable Diffusion • Flux • Wan • Model Training & Fine-tuning • PyTorch • Python  
 **VFX:** Houdini • Blender • Nuke • After Effects • Production Pipeline Development  
 **Pipeline:** Python Automation • Git • API Development • Tool Development  
 **Production:** 11+ years commercial experience • International clients • High-pressure deadlines
