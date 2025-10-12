@@ -78,5 +78,5 @@ Procedural systems, lookdev, and lighting for high-end commercials. 5+ years pro
 </p>
 
 <p align="center">
-  <i>"Ai isn't replacing artists—it's giving them superpowers."</i>
+  <i>"Ai isn't replacing artists - it's giving them superpowers."</i>
 </p>
