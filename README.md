@@ -15,10 +15,7 @@ Building the bridge between traditional VFX production and AI-enhanced workflows
 **Custom ComfyUI nodes and AI pipeline tools for production VFX:**
 
 ### [Comfyui-FeedbackSampler](https://github.com/pizurny/Comfyui-FeedbackSampler)
-Custom sampler for Deforum-style zoom animations through iterative feedback loops. Currently used in commercial production at UPP a.s.
-- ✅ Reduces iteration time by 95% (4 hours → 5 minutes)
-- ✅ Production-ready and actively maintained
-- ✅ SDXL compatible with configurable parameters
+Experimental custom sampler for Deforum-style zoom animations through iterative feedback loops.
 
 ### [Sammie-Roto](https://github.com/pizurny/Sammie-Roto) (Contributor)
 Added image sequence I/O support for VFX production workflows. Enables seamless integration of AI masking into standard compositing pipelines.
@@ -49,7 +46,7 @@ Procedural systems, lookdev, and lighting for high-end commercials. 5+ years pro
 ## 🛠️ Technical Stack
 
 **AI/ML:** ComfyUI Custom Node Development • Stable Diffusion • Model Training & Fine-tuning • PyTorch • Python  
-**VFX:** Houdini • SideFX • Nuke • After Effects • Production Pipeline Development  
+**VFX:** Houdini • Blender • Nuke • After Effects • Production Pipeline Development  
 **Pipeline:** Python Automation • Git • API Development • Tool Development  
 **Production:** 11+ years commercial experience • International clients • High-pressure deadlines
 
@@ -78,5 +75,5 @@ Procedural systems, lookdev, and lighting for high-end commercials. 5+ years pro
 </p>
 
 <p align="center">
-  <i>"The future of VFX isn't replacing artists—it's giving them superpowers."</i>
+  <i>"Ai isn't replacing artists—it's giving them superpowers."</i>
 </p>
