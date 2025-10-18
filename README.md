@@ -37,7 +37,7 @@ Leading AI initiatives for commercial production, delivering AI-enhanced VFX fro
 **Key achievements:**
 - Built scalable ComfyUI workflows & automated Ai solutions
 - Reduced shot iteration time by 60% through AI-enhanced previsualization
-- Train and deploy custom Stable Diffusion/Flux models for client-specific requirements
+- Train and deploy custom Flux/Wan models for client-specific requirements
 - Deliver AI-heavy shots for high-profile advertising campaigns
 - Conduct technical workshops training artists across disciplines
 
