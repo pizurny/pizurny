@@ -14,7 +14,7 @@ Building the bridge between traditional VFX production and AI-enhanced workflows
 
 **Custom ComfyUI nodes and AI pipeline tools for production VFX:**
 
-### [ComfyUI-AV-Handles]([https://github.com/pizurny/Comfyui-FeedbackSampler](https://github.com/pizurny/ComfyUI-AV-Handles)
+### [ComfyUI-AV-Handles](https://github.com/pizurny/Comfyui-FeedbackSampler](https://github.com/pizurny/ComfyUI-AV-Handles)
 Add and remove stabilization frames with synchronized audio for video diffusion models.
 
 ### [Comfyui-FeedbackSampler](https://github.com/pizurny/Comfyui-FeedbackSampler)
