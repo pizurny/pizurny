@@ -26,9 +26,6 @@ Advanced latent space transformations during diffusion sampling
 ### [Sammie-Roto](https://github.com/pizurny/Sammie-Roto) (Contributor)
 Added image sequence I/O support for VFX production workflows. Enables seamless integration of AI masking into standard compositing pipelines.
 
-### [ComfyUI-Just-DWPose](https://github.com/pizurny/ComfyUI-Just-DWPose)
-DWPose preprocessor integration for character animation and pose estimation with smooothing algorithms and offline use.
-
 ---
 
 ##  Production Experience
