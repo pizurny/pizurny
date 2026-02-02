@@ -4,7 +4,7 @@ Building the bridge between traditional VFX production and AI-enhanced workflows
 
  **11+ years** in digital art & animation production  
  **ComfyUI custom node developer** - building tools, not just using them  
- **Gen AI Innovation Specialist** @ DNEG Brahma - Cutting-edge GenAI R&D for tier-1 VFX  
+ **Gen AI Innovation Specialist** @ DNEG Brahma 
 
 ---
 
