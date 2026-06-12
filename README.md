@@ -2,10 +2,7 @@
 
 ### Gen AI Innovation Specialist × ComfyUI Custom Node Developer
 
-Building the bridge between traditional VFX production and AI-enhanced workflows.
-
-**Gen AI Innovation Specialist** @ DNEG Brahma
-Building tools, not just using them — custom ComfyUI nodes, training pipelines, and production-ready AI workflows.
+Building the bridge between traditional VFX production and AI-enhanced workflows — building tools, not just using them.
 
 ---
 
@@ -13,13 +10,13 @@ Building tools, not just using them — custom ComfyUI nodes, training pipelines
 
 Custom ComfyUI nodes and AI pipeline tools for production VFX:
 
-### [ComfyUI-AV-Handles](https://github.com/pizurny/ComfyUI-AV-Handles)
-
-Add and remove stabilization frames with synchronized audio for video diffusion models.
-
 ### [Comfyui-FeedbackSampler](https://github.com/pizurny/Comfyui-FeedbackSampler)
 
 Experimental custom sampler for Deforum-style zoom animations through iterative feedback loops.
+
+### [ComfyUI-AV-Handles](https://github.com/pizurny/ComfyUI-AV-Handles)
+
+Add and remove stabilization frames with synchronized audio for video diffusion models.
 
 ### [ComfyUI Latent Transform Sampler](https://github.com/pizurny/Comfyui-Latent-Transform-Sampler)
 
@@ -30,8 +27,8 @@ Advanced latent space transformations during diffusion sampling.
 ## Open Source Contributions
 
 - **[Musubi Tuner](https://github.com/kohya-ss/musubi-tuner)** — Contributor to Kohya's video model training framework
-- **[ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)** — Merged PR #554 (uint8 overflow fix in `GrowMaskWithBlur`)
-- **[Sammie-Roto](https://github.com/pizurny/Sammie-Roto)** — Added image sequence I/O for VFX compositing pipelines
+- **[ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)** — Merged [PR #554](https://github.com/kijai/ComfyUI-KJNodes/pull/554) (uint8 overflow fix in `GrowMaskWithBlur`)
+- **[Sammie-Roto](https://github.com/Zarxrax/Sammie-Roto)** — Merged [PR #16](https://github.com/Zarxrax/Sammie-Roto/pull/16) & [PR #20](https://github.com/Zarxrax/Sammie-Roto/pull/20): image sequence I/O for VFX compositing pipelines
 
 ---
 
@@ -74,3 +71,4 @@ Procedural systems, lookdev, and lighting for high-end commercials.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pizurny)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adam.pizurny)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@adampizurny.com)
